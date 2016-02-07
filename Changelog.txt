@@ -1,0 +1,18 @@
+Changelog:
+
+Version 1.0
+
+* Ported to Sahrani A3 territory
+* Added VCOM AI script based addon
+* Added ALiVE AI factions
+* Added CUP Weapons
+* Added CUP Vehicles
+* Added CUP Units
+* Added HLC Weapons
+* Added Suddens East vs West
+* Changed Blufor and Opfor to Suddens Factions
+* Added Pomi PMC faction
+* Changed Independent faction to PMC faction
+* Removed stores
+* Added ETG Random Helidrop/crash script
+* Added ACRE2 Radio system to replace VON system.
